@@ -1,0 +1,4 @@
+{
+    "template_text": "{\"placeholder\": \"text_a\"} In summary, the film was {\"mask\"}.",
+    "label_words": [["bad"], ["good"]]
+}

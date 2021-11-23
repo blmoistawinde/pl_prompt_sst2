@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+pytorch-lightning
+git+https://github.com/thunlp/OpenPrompt.git
